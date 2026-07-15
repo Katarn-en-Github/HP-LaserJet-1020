@@ -1,0 +1,9 @@
+cups:
+  Instalados: 2.4.10-3+rpt2+deb13u2
+  Candidato:  2.4.10-3+rpt2+deb13u2
+  Tabla de versión:
+ *** 2.4.10-3+rpt2+deb13u2 500
+        500 http://archive.raspberrypi.com/debian trixie/main armhf Packages
+        100 /var/lib/dpkg/status
+     2.4.10-3+deb13u2 500
+        500 http://raspbian.raspberrypi.com/raspbian trixie/main armhf Packages

@@ -1,0 +1,13 @@
+ii  cups                                 2.4.10-3+rpt2+deb13u2                   armhf        Common UNIX Printing System(tm) - PPD/driver support, web interface
+ii  cups-browsed                         1.28.17-6+rpt1+deb13u1                  armhf        OpenPrinting CUPS Filters - cups-browsed
+ii  cups-client                          2.4.10-3+rpt2+deb13u2                   armhf        Common UNIX Printing System(tm) - client programs (SysV)
+ii  cups-common                          2.4.10-3+rpt2+deb13u2                   all          Common UNIX Printing System(tm) - common files
+ii  cups-core-drivers                    2.4.10-3+rpt2+deb13u2                   armhf        Common UNIX Printing System(tm) - driverless printing
+ii  cups-daemon                          2.4.10-3+rpt2+deb13u2                   armhf        Common UNIX Printing System(tm) - daemon
+ii  cups-filters                         1.28.17-6+rpt1+deb13u1                  armhf        OpenPrinting CUPS Filters - Main Package
+ii  cups-filters-core-drivers            1.28.17-6+rpt1+deb13u1                  armhf        OpenPrinting CUPS Filters - Driverless printing
+ii  cups-ipp-utils                       2.4.10-3+rpt2+deb13u2                   armhf        Common UNIX Printing System(tm) - IPP developer/admin utilities
+ii  cups-ppdc                            2.4.10-3+rpt2+deb13u2                   armhf        Common UNIX Printing System(tm) - PPD manipulation utilities
+ii  cups-server-common                   2.4.10-3+rpt2+deb13u2                   all          Common UNIX Printing System(tm) - server common files
+ii  libcups2t64:armhf                    2.4.10-3+rpt2+deb13u2                   armhf        Common UNIX Printing System(tm) - Core library
+ii  libcupsfilters1t64:armhf             1.28.17-6+rpt1+deb13u1                  armhf        OpenPrinting CUPS Filters - Shared library

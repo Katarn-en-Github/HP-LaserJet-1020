@@ -1,0 +1,7 @@
+#Types: deb
+Types: deb deb-src
+URIs: http://raspbian.raspberrypi.com/raspbian/
+Architectures: armhf
+Suites: trixie
+Components: main contrib non-free rpi
+Signed-By: /usr/share/keyrings/raspbian-archive-keyring.gpg
