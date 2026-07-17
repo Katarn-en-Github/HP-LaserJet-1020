@@ -152,10 +152,12 @@ Documentación completa del proceso.
 
 Incluye:
 
-- guía paso a paso
-- explicación técnica
-- resolución de problemas
-- procedimiento de recuperación
+- Guía completa del proceso paso a paso
+- Guía de instalación de CUPS en Raspberry Pi OS limpio
+- Guía exclusiva del problema y solución de funcionamiento de HP LaserJet 1020 en Raspberry Pi OS Trixie
+- Cómo configurar los clientes para imprimir en diferentes OS
+- Fuentes de recursos utilizadas
+- Guía oficial del usuario de la impresora HP LaserJet 1020
 
 ---
 
