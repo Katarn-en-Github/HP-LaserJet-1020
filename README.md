@@ -49,7 +49,11 @@ checksums/
     SHA256SUMS
 
 docs/
-    Guía_Completa_HP_LaserJet_1020_CUPS_2.4.10_Raspberry_Pi_OS_Trixie.md
+    00. Proceso completo HP LaserJet 1020 en Raspberry Pi OS Trixie con CUPS 2.4.10.md
+    01. Instalación de CUPS en Raspberry Pi OS Trixie.md
+    02. HP LaserJet 1020 en Raspberry Pi OS Trixie con CUPS.md
+    03. Configuración de clientes.md
+    Fuentes.md
     HP1020 Guía del Usuario.pdf
 
 firmware/
